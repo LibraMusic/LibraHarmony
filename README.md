@@ -1,2 +1,2 @@
 # LibraHarmony
-Bot templates for Libra
+Libra bots & integrations for various applications
